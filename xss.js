@@ -1,0 +1,1 @@
+alert("Example of XSS using an uploaded file to avoid size limitations");
